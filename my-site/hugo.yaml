@@ -1,0 +1,6 @@
+baseURL: https://mit-d-lab.github.io
+languageCode: en-us
+title: Mobiles 4 Development @ MIT D-Lab
+module:
+  imports:
+    - path: github.com/imginf/hextra
