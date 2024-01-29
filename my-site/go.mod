@@ -1,4 +1,4 @@
-module github.com/username/my-site
+module github.com/MIT-D-Lab/my-site
 
 go 1.21.6
 
