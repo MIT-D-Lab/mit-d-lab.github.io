@@ -58,3 +58,12 @@ params:
   editURL:
     enable: false
     base: "https://mit-d-lab.github.io/"
+
+  meta:
+    description: "Using Electronics to Advance the UN SDGs"
+    author: "MIT D-Lab"
+    favicon: true
+    svg: false
+    faviconVersion: 1
+    msColor: "#ffffff"
+    iOSColor: "#ffffff"
