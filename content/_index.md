@@ -4,9 +4,9 @@ layout: hextra-home
 ---
 
 
-{{< hextra/hero-badge link="https://opensource.org/license/mit/">}}
+{{< hextra/hero-badge link="https://creativecommons.org/licenses/by/4.0/">}}
 <div class="w-2 h-2 rounded-full bg-primary-400"></div>
-<span>MIT License</span>
+<span>CC-BY 4.0 DEED</span>
 {{< icon name="arrow-circle-right" attributes="height=14">}}
 {{< /hextra/hero-badge >}}
 
@@ -56,25 +56,28 @@ layout: hextra-home
   >}} -->
   {{< hextra/feature-card
     title="Hardware & Software Docs"
-    subtitle="No dependency or Node.js is needed to use Hextra. Powered by Hugo, one of *the fastest* static site generators, building your site in just seconds with a single binary."
+    subtitle="Contains consolidated documentation on the hardware and software we will use. Tailored to both students and international partners."
     link="docs"
   >}}
   {{< hextra/feature-card
     title="Labs"
-    subtitle="Looks great on different screen sizes. Built-in dark mode support, with auto-switching based on user's system preference."
+    subtitle="Contains instructions for hands-on tutorials using arduino, mobile devices, sensors, and actuators in mechatronic systems."
+    link="docs/labs"
   >}}
   {{< hextra/feature-card
     title="Readings"
-    subtitle="Build with GitHub Actions, and host for free on GitHub Pages. Alternatively it can be hosted on any static hosting service."
+    subtitle="Readings created for this class contain a wide variety of background technical content, as well as socioeconomic contexts important for our projects."
+    link="docs/readings"
   >}}
   {{< hextra/feature-card
     title="Helpful Resources"
-    subtitle="Create multi-language pages by just adding locales suffix to the Markdown file. Adding i18n support to your site is intuitive."
+    subtitle="Textbooks, websites, youtube videos, other classes, projects, and more."
+    link="docs/resources"
   >}}
   {{< hextra/feature-card
     title="Sustainable Development"
     icon="sparkles"
-    subtitle="Syntax highlighting / Table of contents / SEO / RSS / LaTeX / Mermaid / Customizable / and more..."
+    subtitle="A current overview of how hardware design relates to the field of sustinable and international development."
   >}}
 {{< /hextra/feature-grid >}}
 
