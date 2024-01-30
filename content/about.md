@@ -20,6 +20,11 @@ Hello! And welcome to the documentation website for **EC.751 / EC.793 (G) Hardwa
   >}}
 {{< /hextra/feature-grid >}}
 
+See the link below for a PDF of the syllabus!
+
+<div class="mb-6"></div>
+{{< hextra/hero-button text="Course Syllabus, Spring 2024" link="docs" >}}
+
 <div class="mt-6"></div>
 
 ## Contents of this Website
@@ -42,12 +47,114 @@ Additionally, the content on this website is [released open-source under creativ
 
 This is a unique class for both MIT as well as D-Lab because of our focus on combining two, generally independent streams of though to build robust products for harsh environments while considering our users needs, and socioeconomic contexts. We call it **technically rigorous product design for developing contexts.** 
 
+Here's what the product design process generally looks like. It's a little messy, but there's always a lot of feedback:
+
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    id1["Problem Framing, User Interviews"];
+    id2["Needs Assessment"];
+    id3["Ideation"];
+    id4["Sketch Modeling"];
+    id5["Prototyping"];
+    id6["Looks Like"];
+    id7["Works Like"];
+    id8["Tests Like"];
+    id9["User Feedback"];
+    id10["Field Testing"];
+    id11["High-Fidelity Prototype + Scaling"];
+    id1-->id2;
+    id2-->id3;
+    id3-->id4;
+    id4-->id5;
+    id5-->id6;
+    id5-->id7;
+    id5-->id8;
+    id6-->id9;
+    id7-->id9;
+    id8-->id9;
+    id4-->id9;
+    id9-->id4;
+    id9-->id5;
+    id9-->id11;
+    id11-->id10;
+    id10-->id11;
+```
+
+And here's what the engineering design process generally looks like (see [FUNdaMENTALs of Design by Alex Slcoum ↗](https://meddevdesign.mit.edu/fundamentals-downloads/?eeFolder=FUNdaMentals-Chapters)). It's also worth looking at the [NASA Technology Readiness Levels (TRLs) ↗](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/):
+
+```mermaid
+graph TD
+    id1["Functional Requirements"];
+    id2["Environment Ergonomics"];
+    id3["Design Parameters"];
+    id4["Analysis"];
+    id5["References"];
+    id6["Risks"];
+    id7["Countermeasures"];
+    id8["Verification of Theory in Hardware Experiments"];
+    id9["Small Scale Prototyping"];
+    id10["Reliability, Lifetime, and Degradation Tests in the Appropriate Environment"];
+    id11["Full Scale Prototype Engineered for Reliability"];
+    id12["Field Testing"];
+    id1-->id2;
+    id2-->id3;
+    id3-->id4;
+    id4-->id5;
+    id5-->id6;
+    id6-->id7;
+    id7-->id1;
+    id7-->id8;
+    id8-->id9;
+    id9-->id10;
+    id10-->id11;
+    id11-->id12;
+    id8-->id4;
+    id9-->id1;
+    id12-->id11;
+    id10-->id8;
+    id2-->id10;
+```
+
+In this class we're going to combine these two processes into one, and also apply it to mechatronics / IoT systems in developing world contexts. We're still developing this concept, but that process is going to look something liks this.
+
+```mermaid
+graph TD
+    id0["Project Selection"];
+    id1["Socioeconomic Problem Framing"];
+    id2["Partner Needs Asessment"];
+    id3["Technical System Requirements"];
+    id4["Functional Block Diagram"];
+    id5["Ideation/Idea selection"];
+    id6["Sketch Modeling"];
+    id7["System Architecture Design"];
+    id8["User Feedback & Design Review 1"];
+    id9["Prototyping"];
+    id10["Works Like / System-on-Bench"];
+    id11["Looks Like / Integration Tests"];
+    id12["Peer Review / User Feedback / Design Review 2"];
+    id13["High Fidelity Prototype"];
+    id14["Field Testing in Appropriate Environment"];
+    id15["Project Documentation"];
+    id0-->id1;
+    id1-->id2;
+    id1-->id3;
+    id3-->id4;
+    id2-->id5;
+    id5-->id6;
+    id4-->id7;
+    id7<-->id8;
+    id6<-->id8;
+    id8-->id9;
+    id9-->id10;
+    id9-->id11;
+    id7-->id10;
+    id6-->id11;
+    id11-->id12;
+    id10-->id12;
+    id12-->id13;
+    id13-->id14;
+    id14-->id13;
+    id14-->id15;
 ```
 
 <div class="mt-12"></div>
