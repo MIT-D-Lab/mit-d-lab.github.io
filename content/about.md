@@ -1,5 +1,5 @@
 ---
-title: About
+title: ♥ Hardware for Good
 type: about
 ---
 
