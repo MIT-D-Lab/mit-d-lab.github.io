@@ -15,7 +15,7 @@ Hello! And welcome to the documentation website for **EC.751 / EC.793 (G) Hardwa
   >}}
   {{< hextra/feature-card
     title="Adi Mehrotra"
-    subtitle="Instructor, MIT D-Lab; Researcher, MIT Department of Mechanical Engineering"
+    subtitle="Instructor, MIT D-Lab; Graduate Student, MIT Department of Mechanical Engineering"
     link="mailto:adim@mit.edu"
   >}}
 {{< /hextra/feature-grid >}}
@@ -23,7 +23,7 @@ Hello! And welcome to the documentation website for **EC.751 / EC.793 (G) Hardwa
 See the link below for a PDF of the syllabus!
 
 <div class="mb-6"></div>
-{{< hextra/hero-button text="Course Syllabus, Spring 2024" link="docs" >}}
+{{< hextra/hero-button text="Course Syllabus, Spring 2024" link="../pdfs/syllabus.pdf" >}}
 
 <div class="mt-6"></div>
 
@@ -80,7 +80,7 @@ graph TD;
     id10-->id11;
 ```
 
-And here's what the engineering design process generally looks like (see [FUNdaMENTALs of Design by Alex Slcoum ↗](https://meddevdesign.mit.edu/fundamentals-downloads/?eeFolder=FUNdaMentals-Chapters)). It's also worth looking at the [NASA Technology Readiness Levels (TRLs) ↗](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/):
+And here's what the engineering design process generally looks like (see [FUNdaMENTALs of Design by Alex Slocum ↗](https://meddevdesign.mit.edu/fundamentals-downloads/?eeFolder=FUNdaMentals-Chapters)). It's also worth looking at the [NASA Technology Readiness Levels (TRLs) ↗](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/):
 
 ```mermaid
 graph TD
@@ -194,6 +194,34 @@ We take safety in this class seriously, especially in the world of electronics. 
 {{% /details %}}
 
 <div class="mt-12"></div>
+
+## Mental Health @ MIT
+
+We care about you, and we really mean that! We know that MIT can be stressful, both because of the work-load but also because of so many other factors that make life hard. We first encourage you to visit [Doing Well @ MIT](https://doingwell.mit.edu/support-3/) which is the central hub for wellness resources. But in addition to that, **please never hesistate to ask the staff if you need help, an extension, if you're experiencing difficulty attending class, or even for matters outside class if you need help getting access to the right resources.** We want this to be a safe, inviting, and inclusive learning environment for all. 
+
+### Immediate Support Resources
+
+Should you ever need it, the following phone numbers will direct you to immediate support resources for yourself, a friend, or anyone else in need. 
+
+<div class="mt-6"></div>
+
+{{< hextra/feature-grid >}}
+  {{< hextra/feature-card
+    title="617-253-1212"
+    subtitle="**MIT Police Emergency Number**, dial 100 from any campus phone, for non-emergencies please call (617) 253-2996, both avaliable 24/7"
+    link="https://police.mit.edu/contact"
+  >}}
+  {{< hextra/feature-card
+    title="617-253-2916"
+    subtitle="**Student Mental Health & Counseling Services Clinician on Call** (SMHCS) avaliable 24/7"
+    link="https://health.mit.edu/services/mental-health-counseling"
+  >}}
+  {{< hextra/feature-card
+    title="988"
+    subtitle="**National Suicide & Crisis Lifeline** avaliable 24/7"
+    link="https://988lifeline.org"
+  >}}
+{{< /hextra/feature-grid >}}
 
 ## Special Thanks To
 

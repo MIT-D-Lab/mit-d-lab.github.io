@@ -1,6 +1,20 @@
 ---
 title: Labs
-next: lab1
+next: lab0
+sidebar:
+  open: true
 ---
 
-This is LITERALLY a demo
+
+
+
+
+
+
+
+
+
+
+
+
+

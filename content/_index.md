@@ -56,21 +56,25 @@ layout: hextra-home
   >}} -->
   {{< hextra/feature-card
     title="Hardware & Software Docs"
+    icon="newspaper"
     subtitle="Contains consolidated documentation on the hardware and software we will use. Tailored to both students and international partners."
     link="docs"
   >}}
   {{< hextra/feature-card
     title="Labs"
+    icon="beaker"
     subtitle="Contains instructions for hands-on tutorials using arduino, mobile devices, sensors, and actuators in mechatronic systems."
     link="docs/labs"
   >}}
   {{< hextra/feature-card
     title="Readings"
+    icon="book-open"
     subtitle="Readings created for this class contain a wide variety of background technical content, as well as socioeconomic contexts important for our projects."
     link="docs/readings"
   >}}
   {{< hextra/feature-card
     title="Helpful Resources"
+    icon="information-circle"
     subtitle="Textbooks, websites, youtube videos, other classes, projects, and more."
     link="docs/resources"
   >}}
@@ -78,6 +82,13 @@ layout: hextra-home
     title="Sustainable Development"
     icon="sparkles"
     subtitle="A current overview of how hardware design relates to the field of sustinable and international development."
+    link="docs/susdev"
+  >}}
+  {{< hextra/feature-card
+    title="Accessibility"
+    icon="heart"
+    subtitle="MIT is committed to providing an environment that is accessible to all. Please let the course staff know any ways we can make our content more acessible for you!"
+    link="https://accessibility.mit.edu"
   >}}
 {{< /hextra/feature-grid >}}
 
