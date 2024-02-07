@@ -39,7 +39,7 @@ The [International Energy Agency's Net-Zero by 2050 Report ↗](https://www.iea.
 
 [Make it Stick ↗](https://www.retrievalpractice.org/make-it-stick) is a great book on the science of learning and how we learn. Many of the ideas it presents were used to structure this course, and can be very useful especially when developing educational programs in developing contexts.
 
-[The Impact Rankins from Times Higher Education ↗](https://www.timeshighereducation.com/impactrankings) rank a university's contributions to the sustinable development goals, and their full [2023 methodology is also avaliable ↗](https://the-ranking.s3.eu-west-1.amazonaws.com/IMPACT/IMPACT2023/THE.ImpactRankings.METHODOLOGY.2023_v1.2.pdf). Resources like this can help us increase awareness of what we can be doing on campus to further our contributions to the SDGs. 
+[The Impact Rankings from Times Higher Education ↗](https://www.timeshighereducation.com/impactrankings) rank a university's contributions to the sustinable development goals, and their full [2023 methodology is also avaliable ↗](https://the-ranking.s3.eu-west-1.amazonaws.com/IMPACT/IMPACT2023/THE.ImpactRankings.METHODOLOGY.2023_v1.2.pdf). Resources like this can help us increase awareness of what we can be doing on campus to further our contributions to the SDGs. 
 
 
 
