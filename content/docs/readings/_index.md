@@ -5,4 +5,4 @@ sidebar:
   open: true
 ---
 
-This is LITERALLY a demo
+The following readings are designed to supplement the labs and the lectures! As always, please reach out to us if you have any questions! 
