@@ -119,7 +119,7 @@ Energy storage components store energy. These can be sources, like batteries, bu
 | Component | Image | Description |
 |---|---|---|
 | Battery | <img src="https://cdn.mscdirect.com/global/images/ProductImages/6699448AB-21.jpg" alt="" style="width:200px;"/> | Batteries store electrical energy. They have a specified voltage, and as energy is used, and charge leaves the positive terminal and returns to the negative terminal, the voltage slowly goes down until the battery is discharged. Charging a rechargeable battery involves moving the charge back from the negative terminal to the positive terminal, but this depends on the battery chemistry. |
-| Capacitor | <img src="https://m.media-amazon.com/images/I/5144LmHixGL._AC_UF1000,1000_QL80_.jpg" alt="" style="width:200px;"/> | Capacitors are resivoirs of charge like batteries. But unlike batteries they aren't designed for storing it over long periods of time. If you disconnect a capacitor from a circuit, it will generally lose the charge stored in it (except for certain chemistries called super capacitors). Capacitors are used in power electronics to store charge, and in logic electronics to filter signals. But we'll talk about that later. |
+| Capacitor | <img src="https://m.media-amazon.com/images/I/5144LmHixGL._AC_UF1000,1000_QL80_.jpg" alt="" style="width:200px;"/> | Capacitors are reservoirs of charge like batteries. But unlike batteries they aren't designed for storing it over long periods of time. If you disconnect a capacitor from a circuit, it will generally lose the charge stored in it (except for certain chemistries called super capacitors). Capacitors are used in power electronics to store charge, and in logic electronics to filter signals. But we'll talk about that later. |
 | Inductor | <img src="https://www.iqsdirectory.com/articles/electric-coil/inductors-and-inductor-coils/inductor.jpg" alt="" style="width:200px;"/> | While batteries and capacitor store energy in the form of charge, inductors store energy in magnetic fields. Inductors resist the change in current of an electric circuit, and can sometimes act as energy use devices if the magnetic energy is used outside the circuit to drive a motor or a magnet. They're heavily used in filters and power electronics, transformers, and more! |
 
 ### Energy Use
@@ -141,6 +141,12 @@ Energy use components take that energy and use it to do work. That could be mech
 | Switches + Transistors | <img src="https://www.addicore.com/cdn/shop/files/ad317_Single-Relay-Module-Main.jpg?v=1692318282&width=950" alt="" style="width:200px;"/> | Switches, like realys and MOSFETs, can switch energy from one part of a circuit to another. They're critical in many power electronics and drive applications, but we'll see other examples of them being used in this class! |
 
 *And certain components like transformes both store, and transfer energy.*
+
+All of the components in the three categories above, generally get translated to circuit symbols so we can draw them easily on schematics. Schematics are "diagrams" of circuits we use to communicate design intent.
+
+![](https://t3.ftcdn.net/jpg/01/20/56/32/360_F_120563206_yfI6TPCrjf2LQCecEymzbgbKYafdTYkH.jpg)
+
+Here are some circuit symbols of components!
 
 
 <div class="mt-12"></div>

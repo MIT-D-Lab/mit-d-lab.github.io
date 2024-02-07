@@ -9,6 +9,13 @@ Lab 2 (sensors and input devices)
 - nyquist and sampling frequency 
 - familiarity with various sensors 
 - basic moving average filters
-- hardware filters such as RC filters and debounce 
+- hardware filters such as RC filters and debounce **do a debounce filter!!!**
+  - we will also use INTERRTUPTS here!!! 
 - I2C, serial, and digital communications sensors
 - calculate communications speed for data streamed to the computer or the cloud 
+
+
+*Also learn to...*
+- REMBER BACK TO READING 1 and RATINGS
+- Read from a sensor and print to serial terminal (printing variables as well)
+- Then print to serial plotter
