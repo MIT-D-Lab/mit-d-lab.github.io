@@ -19,3 +19,5 @@ Lab 2 (sensors and input devices)
 - REMBER BACK TO READING 1 and RATINGS
 - Read from a sensor and print to serial terminal (printing variables as well)
 - Then print to serial plotter
+
+**Calibration and TRUSTING your sensors!!!! --> how to know when you trust your sensor!**
