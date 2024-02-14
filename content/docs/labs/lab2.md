@@ -17,6 +17,7 @@ Lab 2 (sensors and input devices)
 
 *Also learn to...*
 - REMBER BACK TO READING 1 and RATINGS
+- CHECK POLARITY AND CONTINUITY
 - Read from a sensor and print to serial terminal (printing variables as well)
 - Then print to serial plotter
 

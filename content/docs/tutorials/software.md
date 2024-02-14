@@ -1,7 +1,8 @@
 ---
-title: Installing Software
+title: Tutorial 1 — Installing Software
 type: docs
 prev: docs/tutorials/
+next: iot
 ---
 
 Please follow the instructions to install the following software on your computer. Please note this should all work on any laptop computer. If you do not have a laptop computer to use, please contact the staff! 

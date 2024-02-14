@@ -106,6 +106,11 @@ Please also note that the **resources page** was designed exactly to give you mo
     subtitle="A basic introduction to IoT systems, what they are, and how they work."
     link="tutorials/iot"
   >}}
+  {{< hextra/feature-card
+    title="Connect Arduino to the MIT Network"
+    subtitle="Please note in this class we will be using the MIT network instead of MIT Secure."
+    link="tutorials/wifi"
+  >}}
 {{< /cards >}}
 
 <div class="mt-6"></div>

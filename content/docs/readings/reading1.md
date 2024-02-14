@@ -1,5 +1,5 @@
 ---
-title: Introduction to Electronics (how to not explode everything)
+title: Reading 1 — Introduction to Electronics (how to not explode everything)
 next: reading2
 math: true
 ---
