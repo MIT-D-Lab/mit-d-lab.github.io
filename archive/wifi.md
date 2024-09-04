@@ -68,6 +68,3 @@ void printData() {
 }
 
 ```
-
-
-**NOTE, ask if CONNECTING WITH THE ONLINE IDE IS EASIER!!!! It might be for this class (maybe we can share a WiFi password)**

@@ -789,3 +789,8 @@ Lab 2 (sensors and input devices)
 - Then print to serial plotter
 
 **Calibration and TRUSTING your sensors!!!! --> how to know when you trust your sensor!**
+
+
+
+
+have the "switch" that indicates if the LED is on or off on the dashboard ALSO turn 

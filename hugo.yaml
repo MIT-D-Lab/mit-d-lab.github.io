@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: Hardware for Good
+title: Hardware Design for Development
 
 # import hextra as module
 module:
@@ -18,7 +18,7 @@ markup:
 
 menu:
   main:
-    - name: Docs
+    - name: Material
       pageRef: /docs
       weight: 1
     - name: Student Projects

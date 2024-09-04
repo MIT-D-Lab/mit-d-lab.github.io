@@ -1,5 +1,5 @@
 ---
-title: Hardware Design for the Developing World
+title: Hardware Design for International Development
 layout: hextra-home
 ---
 
@@ -12,7 +12,7 @@ layout: hextra-home
 
 <div class="mt-6 mb-6">
 {{< hextra/hero-headline >}}
-  Hardware Design&nbsp;<br class="sm:block hidden" />for the Developing World
+  Hardware Design&nbsp;<br class="sm:block hidden" />for International Development
 {{< /hextra/hero-headline >}}
 </div>
 
@@ -23,7 +23,7 @@ layout: hextra-home
 </div>
 
 <div class="mb-6">
-{{< hextra/hero-button text="Documentation" link="docs" >}}
+{{< hextra/hero-button text="Course Content" link="docs" >}}
 </div>
 
 
