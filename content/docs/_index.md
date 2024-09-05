@@ -6,16 +6,17 @@ next: labs
 <div class="mt-6"></div>
 
 {{< callout type="error" >}}
-  Every week we will post what is due in this callout box! There is some reading for this week.
-  
   If you have not taken an electronics class before, we reccomend sections of PE4I, or [Crash Course Physics Videos #27-31 ↗](https://www.youtube.com/playlist?list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV):
 
   - Chapter 1
   - 2.1-2.3
   - 2.11-2.18
   - 2.23.1, 2.23.6-2.23.8, 2.23.10-2.23.11
-  
-  If you HAVE some familiariy with electronics please skim the table of contents of PE4I and 
+
+{{< /callout >}}
+
+{{< callout type="error" >}}
+  **Homework for Next Week:** please read Chapter 7 of PE4I, and think about what project / team you want to be on!
 
 {{< /callout >}}
 
