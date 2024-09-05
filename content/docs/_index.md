@@ -15,11 +15,6 @@ next: labs
 
 {{< /callout >}}
 
-{{< callout type="error" >}}
-  **Homework for Next Week:** please read Chapter 7 of PE4I, and think about what project / team you want to be on!
-
-{{< /callout >}}
-
 Hello! Some disclaimers before we get into actual course content. This website contains lecture recordings, readings, resources, and other material required for the course. You are welcome to share it with anyone, and use it however you wish. Please note that since this website is online, we have limited control on how it displays on various devices. **If you ever need a PDF version, or anything enlarged, please [email Adi!](mailto:adim@mit.edu)**
 
 A secondary note, questions are **always** welcome and encouraged! Please ask your questions to the staff and often we will post clarifications to this site to help other students as well (though we won't name you unless you want us to)! 

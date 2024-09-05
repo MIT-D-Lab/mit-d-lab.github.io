@@ -55,9 +55,9 @@ layout: hextra-home
     style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}} -->
   {{< hextra/feature-card
-    title="Hardware & Software Docs"
+    title="Course Material"
     icon="newspaper"
-    subtitle="Contains consolidated documentation on the hardware and software we will use. Tailored to both students and international partners."
+    subtitle="Posted lecture and lab content including videos, slides, and readings. Tutorials and homework are also located here."
     link="docs"
   >}}
   {{< hextra/feature-card
@@ -70,7 +70,7 @@ layout: hextra-home
     title="Readings"
     icon="book-open"
     subtitle="Readings created for this class contain a wide variety of background technical content, as well as socioeconomic contexts important for our projects."
-    link="docs/readings"
+    link="pdfs/syllabus.pdf"
   >}}
   {{< hextra/feature-card
     title="Helpful Resources"
@@ -82,7 +82,7 @@ layout: hextra-home
     title="Sustainable Development"
     icon="sparkles"
     subtitle="A current overview of how hardware design relates to the field of sustinable and international development."
-    link="docs/susdev"
+    link="docs/resources/susdev"
   >}}
   {{< hextra/feature-card
     title="Accessibility"
