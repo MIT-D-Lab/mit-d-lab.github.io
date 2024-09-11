@@ -5,26 +5,35 @@ sidebar:
   open: true
 ---
 
-Hello everyone! The lectures and labs will be posted here including recordings and slides. This page is currently being updated but your homework for next week is as follows.
+This page will contain notes, resources, lecture videos, slides, and more!
 
 {{< callout type="warning" >}}
-  **Homework for Next Week:** please read Chapter 7 of PE4I, and think about what project / team you want to be on!
+  **This Week's Assignments:**  
+  - Talk with your team and partner: Do the [Working Style](https://drive.google.com/file/d/134aI9szC6zrunIubV607CuW9hXiZMfhI/view?usp=sharing) & [Asset Mapping Activity](https://drive.google.com/file/d/1DQ9Q63CqZroRbwqdtY671bhw-Lp8WKRK/view?usp=sharing) & Schedule a day to do your regular meetings
+  - Draw a system level block diagram of your circuit of your project after talking with your partners! We will review these in class next week! Reach out to Adi if you need help or are confused!
 
-  Please also [install the course software](../resources/software)!
+  **This Week's Readings:**
+  - Green PCB Manufacturing Technologies, K.C. Young, [Handbook of Sustainable Manufacturing](https://drive.google.com/file/d/1BX3txtpEkPZVugl9sddtgZ20EFKjVOVK/view?usp=sharing) (p301-322)
+  - Practical Electronics for Inventors: Read Chapter 13 (micro controllers)
+
+  **Last Week's Homework:**
+  - please read Chapter 7 of PE4I, and think about what project / team you want to be on!
+  - Please also [install the course software](../resources/software)!
 
 {{< /callout >}}
 
+### Introductory Class (9/4/24) [Slides](https://drive.google.com/file/d/12-k-3SbKjYaTOhWLY20bt4YOBK4CZ5eb/view?usp=sharing)
+
 ### Lecture 1 - Design as an Art + Process (9/11/24)
 
-[Slides from L1](https://www.dropbox.com/scl/fi/jn0wf0nlmd8tj76ni7vfk/Lecture1.pdf?rlkey=ijjg5ewinuznw4rbk4rwqft8a&dl=0) [Lecture Video]()
+[Slides from L1 (Part I)](https://drive.google.com/file/d/1Imjff1R2wzyQNjREA7HzerHqrsQWAxcj/view?usp=sharing)
+[Slides from L1 (Part II)](https://www.dropbox.com/scl/fi/jn0wf0nlmd8tj76ni7vfk/Lecture1.pdf?rlkey=ijjg5ewinuznw4rbk4rwqft8a&dl=0)
 
 <div class="mt-6"></div>
 
-{{< hextra/feature-card
-    title="Lab 1"
-    subtitle="Introduction to board-level design with KiCad. SPICE. Introduction to EE Lab Tools."
-    link=""
-  >}}
+{{< callout type="error" >}}
+  **Please note that we were unable to record this first lecture** however future lectures of the class will be recorded and posted here. Instead, we linked some additional really cool sources for you to check out below! 
+{{< /callout >}}
 
 #### Additional Helpful Resources 
 
@@ -36,8 +45,6 @@ Hello everyone! The lectures and labs will be posted here including recordings a
 #### Plugins for KiCad
 
 There's [PCB-Way plugin](https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html) for KiCad which makes exporting your board super easy! There are many other manufacturers we will consider, and exporting manufacturing files is something we will explore later in the class when we order your boards.
-
-
 
 
 
