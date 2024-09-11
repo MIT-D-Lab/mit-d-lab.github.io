@@ -82,7 +82,7 @@ layout: hextra-home
     title="Sustainable Development"
     icon="sparkles"
     subtitle="A current overview of how hardware design relates to the field of sustinable and international development."
-    link="docs/resources/susdev"
+    link=""
   >}}
   {{< hextra/feature-card
     title="Accessibility"
