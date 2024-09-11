@@ -11,6 +11,7 @@ This page will contain notes, resources, lecture videos, slides, and more!
   **This Week's Assignments:**  
   - Talk with your team and partner: Do the [Working Style](https://drive.google.com/file/d/134aI9szC6zrunIubV607CuW9hXiZMfhI/view?usp=sharing) & [Asset Mapping Activity](https://drive.google.com/file/d/1DQ9Q63CqZroRbwqdtY671bhw-Lp8WKRK/view?usp=sharing) & Schedule a day to do your regular meetings
   - Draw a system level block diagram of your circuit of your project after talking with your partners! We will review these in class next week! Reach out to Adi if you need help or are confused!
+  - Complete the [project selection form by MIDNIGHT 9/12](https://forms.gle/8hCMVCnbPTfLj5QF8)
 
   **This Week's Readings:**
   - Green PCB Manufacturing Technologies, K.C. Young, [Handbook of Sustainable Manufacturing](https://drive.google.com/file/d/1BX3txtpEkPZVugl9sddtgZ20EFKjVOVK/view?usp=sharing) (p301-322)
