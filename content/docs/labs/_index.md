@@ -1,5 +1,6 @@
 ---
 title: Lectures + Labs
+next: sled
 sidebar:
   open: true
 ---
@@ -33,6 +34,8 @@ This page will contain notes, resources, lecture videos, slides, and more!
 
 {{< callout type="error" >}}
   **Please note that we were unable to record this first lecture** however future lectures of the class will be recorded and posted here. Instead, we linked some additional really cool sources for you to check out below! 
+
+  As an apology, I've typed up some [class notes here](sled).
 {{< /callout >}}
 
 #### Additional Helpful Resources 

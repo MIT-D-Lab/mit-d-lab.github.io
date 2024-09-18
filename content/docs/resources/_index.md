@@ -18,7 +18,7 @@ Please note this course has a textbook from which we will assign periodic readin
 {{< hextra/feature-card
   title="Practical Electronics for Inventors — 4th Edition"
   subtitle="Paul Scherz and Simon Monk (Free PDF Linked)"
-  link="http://instrumentacion.qi.fcen.uba.ar/libro/Scherz.pdf"
+  link="https://archive.org/details/practical-electronics-for-inventors-4th-edition-by-paul-scherz-simon-monk-z-lib.org"
 >}}
 
 ## Engineering Resources
