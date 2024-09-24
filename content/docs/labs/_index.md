@@ -9,18 +9,12 @@ This page will contain notes, resources, lecture videos, slides, and more!
 
 {{< callout type="warning" >}}
   **This Week's Assignments:**  
-  - Talk with your team and partner: Do the [Working Style](https://drive.google.com/file/d/134aI9szC6zrunIubV607CuW9hXiZMfhI/view?usp=sharing) & [Asset Mapping Activity](https://drive.google.com/file/d/1DQ9Q63CqZroRbwqdtY671bhw-Lp8WKRK/view?usp=sharing) & Schedule a day to do your regular meetings
-  - Draw a system level block diagram of your circuit of your project after talking with your partners! We will review these in class next week! Reach out to Adi if you need help or are confused!
-  - Complete the [project selection form by MIDNIGHT 9/12](https://forms.gle/8hCMVCnbPTfLj5QF8)
+  - Complete [Asset Mapping](https://drive.google.com/file/d/1DQ9Q63CqZroRbwqdtY671bhw-Lp8WKRK/view), [Working Styles](https://drive.google.com/file/d/134aI9szC6zrunIubV607CuW9hXiZMfhI/view), [Stakeholder Mapping](https://drive.google.com/file/d/1wZERS2FVLvyTSpsM-VPbn32tfcgEQ9Aa/view) as well as the [LCA Exercise](https://drive.google.com/file/d/15d8c8mAMVbG7-dnXVXepYimUK-47h6ic/view)
 
   **This Week's Readings:**
-  - Green PCB Manufacturing Technologies, K.C. Young, [Handbook of Sustainable Manufacturing](https://drive.google.com/file/d/1BX3txtpEkPZVugl9sddtgZ20EFKjVOVK/view?usp=sharing) (p301-322)
-  - Practical Electronics for Inventors: Read Chapter 13 (micro controllers)
-
-  **Last Week's Homework:**
-  - please read Chapter 7 of PE4I, and think about what project / team you want to be on!
-  - Please also [install the course software](../resources/software)!
-
+  - Read the [D-Lab User Research Handbook](https://drive.google.com/file/d/1kZgMSHwg0D-JpKfSDr8hyPXEs_m49puT/view)
+  - Practical Electronics for Inventors: Read Chapter 6 and Section 12.9 (sensors)
+  
 {{< /callout >}}
 
 ### Introductory Class (9/4/24) [Slides](https://drive.google.com/file/d/12-k-3SbKjYaTOhWLY20bt4YOBK4CZ5eb/view?usp=sharing)
@@ -41,15 +35,23 @@ This page will contain notes, resources, lecture videos, slides, and more!
 #### Additional Helpful Resources 
 
 - PCB Class Lectures on Design (great stuff by Winnie and Will): [2024 IAP](https://pcb.mit.edu/lectures/lecture_01/)
-- What is PCB Notes and Lecture (great stuff by Fischer M): [Notes]() [Slides](https://pcb.mit.edu/static/slides/lecture_02.pdf) [Lecture](https://www.youtube.com/watch?v=NnycUXUgmk0)
-- PCB Class Lab 1 (Altium Version): [Design of an LED Board](https://pcb.mit.edu/archive/IAP2023/lectures/lab_01/)
 - Lecture on Bluetooth Speaker Design (also thanks to Fischer M.): See [Lecture 04](https://pcb.mit.edu/archive/IAP2023/lectures/)
+- PCB Class Design as an Art + Process: [2023 IAP](https://www.youtube.com/watch?v=tYbshePrX4I&list=PLJpsOGUzkGzKMEPmRKWAJcLpKBvSGrfvR&index=1)
 
 #### Plugins for KiCad
 
 There's [PCB-Way plugin](https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html) for KiCad which makes exporting your board super easy! There are many other manufacturers we will consider, and exporting manufacturing files is something we will explore later in the class when we order your boards.
 
+### Lecture 2 - LCA, Co-Design, Intro to PCB Design (9/18/24)
 
+- [Slides from L2 (Design)](https://drive.google.com/file/d/1rtDYg--s9wy7-2MdZ3_doobcZZC211sj/view?usp=sharing)
+- [Slides from L2 (LCA)](https://drive.google.com/file/d/1PTzl0IaD133uSBQUyzdfcNOemWzwJFGJ/view?usp=sharing)
 
+#### Technical Lecture Content
+
+In class today we did the basics of KiCAD with a simple example of an LED PCB driver board with a USB connector. We followed Lab 1 linked below almost exactly but in KiCAD. If you need help with KiCAD specifically see the [getting started in KiCAD](https://docs.kicad.org/6.0/en/getting_started_in_kicad/getting_started_in_kicad.html) which is a pretty good overview of what we went through. We also did a tutorial on git for absolute beginners [like this one ↗](https://www.youtube.com/watch?v=CvUiKWv2-C0).
+
+- What is PCB Notes and Lecture (great stuff by Fischer M): [Notes]() [Slides](https://pcb.mit.edu/static/slides/lecture_02.pdf) [Lecture](https://www.youtube.com/watch?v=NnycUXUgmk0)
+- PCB Class Lab 1 (Altium Version): [Design of an LED Board](https://pcb.mit.edu/archive/IAP2023/lectures/lab_01/)
 
 
