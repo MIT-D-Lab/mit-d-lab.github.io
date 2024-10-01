@@ -9,12 +9,11 @@ This page will contain notes, resources, lecture videos, slides, and more!
 
 {{< callout type="warning" >}}
   **This Week's Assignments:**  
-  - Complete [Asset Mapping](https://drive.google.com/file/d/1DQ9Q63CqZroRbwqdtY671bhw-Lp8WKRK/view), [Working Styles](https://drive.google.com/file/d/134aI9szC6zrunIubV607CuW9hXiZMfhI/view), [Stakeholder Mapping](https://drive.google.com/file/d/1wZERS2FVLvyTSpsM-VPbn32tfcgEQ9Aa/view) as well as the [LCA Exercise](https://drive.google.com/file/d/15d8c8mAMVbG7-dnXVXepYimUK-47h6ic/view)
+  - Complete your 
 
   **This Week's Readings:**
-  - Read the [D-Lab User Research Handbook](https://drive.google.com/file/d/1kZgMSHwg0D-JpKfSDr8hyPXEs_m49puT/view)
-  - Practical Electronics for Inventors: Read Chapter 6 and Section 12.9 (sensors)
-  
+  - Read Wilson, Avoided emissions of a fuel-efficient biomass cookstove dwarf embodied emissions, Development Engineering, 2016
+  - Chapter 11, Section 12.5, Section 4.5 of PE4I
 {{< /callout >}}
 
 ### Introductory Class (9/4/24) [Slides](https://drive.google.com/file/d/12-k-3SbKjYaTOhWLY20bt4YOBK4CZ5eb/view?usp=sharing)
@@ -54,4 +53,8 @@ In class today we did the basics of KiCAD with a simple example of an LED PCB dr
 - What is PCB Notes and Lecture (great stuff by Fischer M): [Notes]() [Slides](https://pcb.mit.edu/static/slides/lecture_02.pdf) [Lecture](https://www.youtube.com/watch?v=NnycUXUgmk0)
 - PCB Class Lab 1 (Altium Version): [Design of an LED Board](https://pcb.mit.edu/archive/IAP2023/lectures/lab_01/)
 
+### Lecture 3 — Microcontrollers 
+
+- [Slides from Microcontrollers](https://www.dropbox.com/scl/fi/954sdau5xe5v8u04qtbj1/Microcontrollers.pptx?rlkey=qaic7sq1g2f9ppzsumzt861vc&st=5v0r93xr&dl=0)
+- [Lecture Recording](https://mit.zoom.us/rec/share/pIKpKM-FTKw0CTD7H2PHdTmuwUxuHKWXp6uyDHp77iUml7mBP3uHifzTutfrAEax.aBnMuuy7SyiC3jaS?startTime=1727287798000)
 
